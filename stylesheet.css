@@ -10,3 +10,15 @@ body {
 div {
 	background-color:#FFFFFF;
 }
+div {
+	margin: 20px 200px 20px 200px;
+}
+body {
+	font-family: Open Sans;
+}
+footer {
+	margin-top: 0;
+}
+img {
+	height: 40px;
+}
